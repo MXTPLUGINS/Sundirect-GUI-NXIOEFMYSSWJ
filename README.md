@@ -12,7 +12,7 @@
 
 ## Downloading 
 
-[Click Here To Download Sundirect GUI](https://github.com/MXTPLUGINS/Sundirect-GUI-NXIOEFMYSSWJ/raw/main/sundirect%20setup.exe)
+[Click Here To Download Sundirect GUI](https://github.com/MXTPLUGINS/Sundirect-GUI-NXIOEFMYSSWJ/raw/main/Sundirect%20Installer%200.0.1.exe)
 
 * After downloading double click to open the file
 * It will ask  you where you want to install this program to
